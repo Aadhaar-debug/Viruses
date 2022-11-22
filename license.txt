@@ -1,0 +1,41 @@
+                       SOFTWARE LICENSE
+
+This program is Freeware
+=============================================================
+Copyright © 2009 Igor Tolmachev, IT Samples.
+All Rights Reserved.
+=============================================================
+
+LICENSE
+=============================================================
+* This Limited Use Software License Agreement (the Agreement) 
+is a legal agreement between you (Licensee), the end-user and
+author, Igor Tolmachev, and by using this software or storing
+this program on a computer hard drive (or other media),
+you are agreeing to be bound by the terms of this Agreement.
+
+* You may not alter this software in any way, including
+changing or removing any messages or windows.
+
+* You may not decompile, reverse engineer, disassemble or
+otherwise reduce this software to a human perceivable form.
+You may not modify, rent or resell for profit this software,
+or create derivative works based upon this software.
+
+* This software may be distributed freely on online services,
+bulletin boards, or other electronic media as long as the
+files are distributed in their entirety.
+
+DISCLAIMER
+=============================================================
+THE SOFTWARE IS PROVIDED TO LICENSEE 'AS IS'. NO WARRANTY OF
+ANY KIND IS EXPRESSED OR IMPLIED. YOU USE THE PROGRAM AT YOUR
+OWN RISK. AUTHOR DISCLAIMS ALL WARRANTIES, EITHER EXPRESS OR
+IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY AND 
+FITNESS FOR A PARTICULAR PURPOSE. NOBODY WILL BE LIABLE FOR
+DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS
+WHILE USING OR MISUSING THIS SOFTWARE. 
+=============================================================
+
+Igor Tolmachev 
+http://www.itsamples.com
